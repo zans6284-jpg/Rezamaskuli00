@@ -1,0 +1,12 @@
+{
+  "name": "worm-gemini-v1",
+  "version": "1.0.0",
+  "description": "Gemini Bot Interface for Termux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Reza",
+  "license": "ISC"
+}
+
